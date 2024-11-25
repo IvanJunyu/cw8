@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89703840067",
+    "project_id": "cw-8-c1d68",
+    "storage_bucket": "cw-8-c1d68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89703840067:android:e1d9d62caa0a39747d57f6",
+        "android_client_info": {
+          "package_name": "com.example.image_labeling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkwiCxlt2utp75YP2XqSSZsGiypMUt8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
